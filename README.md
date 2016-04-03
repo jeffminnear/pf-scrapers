@@ -2,25 +2,11 @@
 
 The data scraping utility used by pilot-fish and pf-meteor
 
-## Getting Started
-Install the module with: `npm install pf-scrapers`
-
-```javascript
-var pf_scrapers = require('pf-scrapers');
-pf_scrapers.awesome(); // "awesome"
-```
-
-## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
+## Release History
+2016-04-03 v0.1.0 Initial release.
 
 ## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
-
-## Release History
-_(Nothing yet)_
+This project is licensed under the MIT License. If you contribute code to this project, you are implicitly allowing that code to be published under the MIT License.
 
 ## License
 Copyright (c) 2016 Jeff Minnear  
