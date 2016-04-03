@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git@github.com:jeffminnear/pf-scrapers.git"
   },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jeffminnear/pf-scrapers/issues"
   },
@@ -34,5 +35,9 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.5"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  }
 }
