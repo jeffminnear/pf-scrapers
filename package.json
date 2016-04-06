@@ -1,7 +1,7 @@
 {
   "name": "pf-scrapers",
   "description": "The data scraping utility used by pilot-fish and pf-meteor",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "homepage": "https://github.com/jeffminnear/pf-scrapers",
   "author": {
     "name": "Jeff Minnear",
