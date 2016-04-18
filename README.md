@@ -3,6 +3,7 @@
 The data scraping utility used by pilot-fish and pf-meteor
 
 ## Release History
++ 2016-04-18 v1.0.1 Bug fixes.
 + 2016-04-15 v1.0.0 Added links to game pages.
 + 2016-04-08 v0.2.4 Minor bug fixes.
 + 2016-04-04 v0.2.0 Added support for images, additional improvements.
