@@ -38,6 +38,7 @@
   "keywords": [],
   "dependencies": {
     "cheerio": "^0.20.0",
+    "puppeteer": "^1.19.0",
     "request": "^2.69.0"
   }
 }
